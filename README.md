@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julior0518
-- 👀 I’m a React Developer exploring web3
-- 🌱 I’m currently learning smart contracts
+- 👀 I’m a full stack developer
+- 🌱 Currently learning GraphQL and Strapi
 - 💞️ I’m looking to collaborate on many projects, I raise capital for startups.
 - 📫 How to reach me julior0518@gmail.com
 
